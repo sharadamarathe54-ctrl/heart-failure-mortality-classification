@@ -1,0 +1,8 @@
+# Heart Failure Mortality Prediction - Python Package Requirements
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+notebook
