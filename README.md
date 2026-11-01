@@ -8,6 +8,9 @@ This project explores the Heart Failure Clinical Records dataset and uses classi
 
 The dataset contains 299 patient records and 13 variables, including the target DEATH_EVENT (0 = no recorded death event, 1 = recorded death event). There are 203 records in class 0 and 96 in class 1. The follow-up duration variable (`time`) is not used as a model predictor.
 
+Dataset source: UCI Machine Learning Repository, Heart Failure Clinical Records (2020). https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
+Dataset DOI: https://doi.org/10.24432/C5Z89R
+
 The repository contains the following files:
 
 - `Heart_Mortality_Prediction.ipynb` :- Jupyter notebook with the analysis and results.
